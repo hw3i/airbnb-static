@@ -1,0 +1,33 @@
+.banner-flat {
+  height: 300px;
+  background-size: cover !important;
+}
+
+.header-flat {
+  justify-items: space-between;
+  border: 1px
+}
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  justify-items: space-between;
+  padding: 30px;
+  padding-left: 0;
+}
+
+.form-flat {
+  background: #F4F4F4;
+  padding: 15px;
+  margin: 20px 0;
+  margin-right: 0px;
+  border-radius: 3px;
+}
+
+.btn-flat {
+  width: 100%;
+}
+
+.flat-owner {
+  padding: 20px;
+}
